@@ -1,0 +1,22 @@
+{
+    "name": "drmonty-datatables-fixedcolumns",
+    "repo": "drmonty/datatables-fixedcolumns",
+    "description": "FixedColumns Plugin for DataTables",
+    "version": "3.0.1",
+    "homepage": "http://www.datatables.net/",
+    "author": {
+        "name": "Allan Jardine",
+        "url": "http://sprymedia.co.uk"
+    },
+    "dependencies": {
+        "components/jquery": ">=1.7"
+    },
+    "main": "js/dataTables.fixedColumns.js",
+    "scripts": [
+        "js/dataTables.fixedColumns.js"
+    ],
+    "files": [
+        "js/dataTables.fixedColumns.min.js",
+        "css/dataTables.fixedColumns.min.css"
+    ]
+}
