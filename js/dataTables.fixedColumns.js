@@ -1387,7 +1387,7 @@ if ( typeof define === 'function' && define.amd ) {
 }
 else if ( typeof exports === 'object' ) {
     // Node/CommonJS
-    factory( require('jquery'), require('datatables') );
+    factory( require('jquery'), require('drmonty-datatables') );
 }
 else if ( jQuery && !jQuery.fn.dataTable.FixedColumns ) {
 	// Otherwise simply initialise as normal, stopping multiple evaluation
