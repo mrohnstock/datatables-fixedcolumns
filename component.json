@@ -2,7 +2,7 @@
     "name": "drmonty-datatables-fixedcolumns",
     "repo": "drmonty/datatables-fixedcolumns",
     "description": "FixedColumns Plugin for DataTables",
-    "version": "3.0.3",
+    "version": "3.0.4",
     "homepage": "http://www.datatables.net/",
     "author": {
         "name": "Allan Jardine",
