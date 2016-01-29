@@ -2,7 +2,7 @@
     "name": "drmonty-datatables-fixedcolumns",
     "description": "FixedColumns Plugin for DataTables",
     "homepage": "http://datatables.net",
-    "version": "3.1.0",
+    "version": "3.2.0",
     "author": {
         "name": "Allan Jardine",
         "url": "http://sprymedia.co.uk"
@@ -10,7 +10,7 @@
     "main": "js/dataTables.fixedColumns.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/drmonty/datatables-fixedcolumns.git"
+        "url": "https://github.com/mrohnstock/datatables-fixedcolumns.git"
     },
     "dependencies": {
         "jquery": ">=1.7"
