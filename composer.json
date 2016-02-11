@@ -19,8 +19,16 @@
                 "js/dataTables.fixedColumns.js"
             ],
             "files": [
+                "css/fixedColumns.jqueryui.min.css",
+                "css/dataTables.fixedColumns.css",
+                "css/fixedColumns.bootstrap.css",
+                "css/fixedColumns.foundation.css",
+                "css/fixedColumns.jqueryui.css",
+                "css/dataTables.fixedColumns.min.css",
+                "css/fixedColumns.bootstrap.min.css",
+                "css/fixedColumns.foundation.min.css",
                 "js/dataTables.fixedColumns.min.js",
-                "css/dataTables.fixedColumns.min.css"
+                "js/dataTables.fixedColumns.js"
             ],
             "shim": {
                 "deps": ["jquery"]
