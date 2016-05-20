@@ -2,7 +2,7 @@
     "name": "drmonty-datatables-fixedcolumns",
     "repo": "drmonty/datatables-fixedcolumns",
     "description": "FixedColumns Plugin for DataTables",
-    "version": "3.2.1",
+    "version": "3.2.2",
     "homepage": "http://www.datatables.net/",
     "author": {
         "name": "Allan Jardine",
@@ -18,11 +18,15 @@
     "files": [
         "css/fixedColumns.jqueryui.min.css",
         "css/dataTables.fixedColumns.css",
+        "css/fixedColumns.semanticui.min.css",
+        "css/fixedColumns.bootstrap4.min.css",
         "css/fixedColumns.bootstrap.css",
         "css/fixedColumns.foundation.css",
         "css/fixedColumns.jqueryui.css",
+        "css/fixedColumns.semanticui.css",
         "css/dataTables.fixedColumns.min.css",
         "css/fixedColumns.bootstrap.min.css",
+        "css/fixedColumns.bootstrap4.css",
         "css/fixedColumns.foundation.min.css",
         "js/dataTables.fixedColumns.min.js",
         "js/dataTables.fixedColumns.js"
