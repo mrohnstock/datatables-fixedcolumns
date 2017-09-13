@@ -42,3 +42,15 @@ div.DTFC_RightFootWrapper table {
   margin-top: 0 !important;
   background-color: white;
 }
+
+div.DTFC_Blocker {
+  background-color: white;
+}
+
+table.dataTable.table-striped.DTFC_Cloned tbody tr:nth-of-type(odd) {
+  background-color: #F3F3F3;
+}
+
+table.dataTable.table-striped.DTFC_Cloned tbody tr:nth-of-type(even) {
+  background-color: white;
+}
